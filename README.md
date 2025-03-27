@@ -1,1 +1,1 @@
-# ContentModerationApp
+# content-mod
